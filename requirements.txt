@@ -1,0 +1,4 @@
+requests
+pandas
+sqlalchemy
+luigi==3.3.0
